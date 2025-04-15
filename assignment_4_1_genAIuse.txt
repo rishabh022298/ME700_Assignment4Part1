@@ -1,0 +1,2 @@
+GPT 4-o was used to add text in the gif using the plotting function.
+GPT 4-o was used to understand a few lines in https://github.com/Lejeune-Lab-Graduate-Course-Materials/fenicsX/blob/main/hyperelasticity_beam.py.
