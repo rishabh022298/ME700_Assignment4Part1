@@ -4,7 +4,7 @@ Problem related to **thermal expansion with linear elasticity** was implemented.
 
 ## Instructions for running the script
 
-### Installing FEniCSx on SCC
+### Installing FEniCSx on the SCC
 
 ```bash
 module load miniconda
@@ -15,3 +15,26 @@ pip install imageio
 pip install gmsh
 pip install PyYAML
 ```
+
+### Running the script on VSCode Server
+Launch VSCode Server.\
+Open terminal in VSCode.\
+Run the following command in the termainal to clone the repository (after moving to the desired directory):
+
+```bash
+git clone https://github.com/rishabh022298/ME700_Assignment4Part1.git
+```
+Change the folder:
+```bash
+cd ME700_Assignment4Part1
+```
+Activate fenicsx-env:
+```bash
+conda activate fenicsx-env
+```
+Run the script:
+```bash
+python thermal_expansion.py
+```
+
+Refresh the terminal to check the deformation.gif.
