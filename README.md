@@ -19,7 +19,7 @@ pip install PyYAML
 ### Running the script on VSCode Server
 Launch VSCode Server.\
 Open terminal in VSCode.\
-Run the following command in the termainal to clone the repository (after moving to the desired directory):
+Run the following commands one by one in the termainal to clone the repository (after moving to the desired directory):
 
 ```bash
 git clone https://github.com/rishabh022298/ME700_Assignment4Part1.git
